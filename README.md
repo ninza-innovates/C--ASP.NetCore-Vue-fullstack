@@ -1,3 +1,5 @@
+> Fork notice: This repository is a copy of [based-ghost/aspnet-core-vue-fullstack-testing](https://github.com/based-ghost/aspnet-core-vue-fullstack-testing), maintained by its original authors. All credit for the original work goes to them. It's licensed under the upstream project's license (MIT).
+
 # Full-Stack Testing (ASP.NET Core 5.0 & Vue.js)
 Prototype application with a Vue.js client that has significant unit testing coverage with Vue Test Utils (Jest as the test runner) and configured for e2e testing with Nightwatch. The web API is built using ASP.NET Core 5.0 and unit/integration testing is handled using xUnit.core. Has a basic, functional UI for executing requests to a back-end web api.
 
